@@ -2,8 +2,8 @@ Augenlaser-Ratgeber.net
 Ratgeber- & Vergleichsportal zum Thema Augen lasern und Linsenimplantate
 
 # Ratgeber
-https://www.augenlaser-ratgeber.net/augenlasern/kosten/
-https://www.augenlaser-ratgeber.net/augenlasern/risiken/
+- https://www.augenlaser-ratgeber.net/augenlasern/kosten/
+- https://www.augenlaser-ratgeber.net/augenlasern/risiken/
 
 # Verfahren
 https://www.augenlaser-ratgeber.net/augenlasern/relex-smile/
