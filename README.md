@@ -39,3 +39,4 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 - LinkedIn: https://www.linkedin.com/company/augenlaser-ratgerber-net/
 - Flipboard: https://flipboard.com/@AugenlaserRat
 - Tribe: https://augenlaser-ratgeber.tribe.so/
+- Join: https://augenlaser-ratgeber.join.com/
