@@ -10,7 +10,7 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 - Femto-LASIK als die Weiterehtwicklung von LASIK die ohne mechanische Hilfsmittel auskommt – https://www.augenlaser-ratgeber.net/augenlasern/femto-lasik/
 - Weitere bzw. eine Übersicht aller Augenlaser-Verfahren finden Sie unter Augenlaser-Verfahren auf: https://www.augenlaser-ratgeber.net/augenlasern/verfahren/
 
-# Städte
+# Augenlaserzentren in den Städte
 - Berlin mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details Für Berlin: https://www.augenlaser-ratgeber.net/augenlasern/berlin/
 - Düsseldorf mit d.Z. 7 größeren Augenlaserzentren Hier gehts zu den Details für Düsseldorf: https://www.augenlaser-ratgeber.net/augenlasern/duesseldorf/
 - Frankfurt am Main mit d.Z. 6 größeren Augenlaserzentren. Die gehts zu den Details für Frankfurt am Main: https://www.augenlaser-ratgeber.net/augenlasern/frankfurt-am-main/
