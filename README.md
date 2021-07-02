@@ -1,6 +1,3 @@
-Augenlaser-Ratgeber.net
-Ratgeber- & Vergleichsportal zum Thema Augen lasern und Linsenimplantate
-
 Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 
 # Augenlaser-Ratgeber
@@ -11,6 +8,7 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 - ReLEx SMILE als eines der modernsten Augenlaser-Verfahren – https://www.augenlaser-ratgeber.net/augenlasern/relex-smile/
 - LASIK als eines der solidesten und bewährtesten Augenlaser-Verfahren – https://www.augenlaser-ratgeber.net/augenlasern/lasik/
 - Femto-LASIK als die Weiterehtwicklung von LASIK die ohne mechanische Hilfsmittel auskommt – https://www.augenlaser-ratgeber.net/augenlasern/femto-lasik/
+- Weitere bzw. eine Übersicht aller Augenlaser-Verfahren finden Sie unter Augenlaser-Verfahren auf: https://www.augenlaser-ratgeber.net/augenlasern/verfahren/
 
 # Städte
 - Berlin mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details Für Berlin: https://www.augenlaser-ratgeber.net/augenlasern/berlin/
