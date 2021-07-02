@@ -11,13 +11,13 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 - Weitere bzw. eine Übersicht aller Augenlaser-Verfahren finden Sie unter Augenlaser-Verfahren auf: https://www.augenlaser-ratgeber.net/augenlasern/verfahren/
 
 # Augenlaserzentren in den Städte
-- Berlin mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details Für Berlin: https://www.augenlaser-ratgeber.net/augenlasern/berlin/
-- Düsseldorf mit d.Z. 7 größeren Augenlaserzentren Hier gehts zu den Details für Düsseldorf: https://www.augenlaser-ratgeber.net/augenlasern/duesseldorf/
-- Frankfurt am Main mit d.Z. 6 größeren Augenlaserzentren. Die gehts zu den Details für Frankfurt am Main: https://www.augenlaser-ratgeber.net/augenlasern/frankfurt-am-main/
-- Hamburg mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details für Hamburg: https://www.augenlaser-ratgeber.net/augenlasern/hamburg/
-- Hannover mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details für Hannover: https://www.augenlaser-ratgeber.net/augenlasern/hannover/
-- Köln mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details fürKöln: https://www.augenlaser-ratgeber.net/augenlasern/koeln/
-- Nürnberg mit d.Z. 2 größeren Augenlaserzentren. Hier gehts zu den Details für Nürnberg: https://www.augenlaser-ratgeber.net/augenlasern/nuernberg/
-- Stuttgart mit d.Z. 4 größeren Augenlaserzentren. Hier gehts zu den Details für Stuttgart: https://www.augenlaser-ratgeber.net/augenlasern/stuttgart/
-- München mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details für München: https://www.augenlaser-ratgeber.net/augenlasern/muenchen/
-- Leipzig mit d.Z. 3 größeren Augenlaserzentren. Hier gehts zu den Details für Leipzig: https://www.augenlaser-ratgeber.net/augenlasern/leipzig/
+- Berlin mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Berlin: https://www.augenlaser-ratgeber.net/augenlasern/berlin/
+- Düsseldorf mit d.Z. 7 größeren Augenlaserzentren Hier gehts zu den Details fürs Augenlasern in Düsseldorf: https://www.augenlaser-ratgeber.net/augenlasern/duesseldorf/
+- Frankfurt am Main mit d.Z. 6 größeren Augenlaserzentren. Die gehts zu den Details fürs Augenlasern in Frankfurt am Main: https://www.augenlaser-ratgeber.net/augenlasern/frankfurt-am-main/
+- Hamburg mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Hamburg: https://www.augenlaser-ratgeber.net/augenlasern/hamburg/
+- Hannover mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Hannover: https://www.augenlaser-ratgeber.net/augenlasern/hannover/
+- Köln mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern inKöln: https://www.augenlaser-ratgeber.net/augenlasern/koeln/
+- Nürnberg mit d.Z. 2 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Nürnberg: https://www.augenlaser-ratgeber.net/augenlasern/nuernberg/
+- Stuttgart mit d.Z. 4 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Stuttgart: https://www.augenlaser-ratgeber.net/augenlasern/stuttgart/
+- München mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in München: https://www.augenlaser-ratgeber.net/augenlasern/muenchen/
+- Leipzig mit d.Z. 3 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Leipzig: https://www.augenlaser-ratgeber.net/augenlasern/leipzig/
