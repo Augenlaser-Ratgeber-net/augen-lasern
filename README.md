@@ -21,3 +21,7 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 - Stuttgart mit d.Z. 4 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Stuttgart: https://www.augenlaser-ratgeber.net/augenlasern/stuttgart/
 - München mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in München: https://www.augenlaser-ratgeber.net/augenlasern/muenchen/
 - Leipzig mit d.Z. 3 größeren Augenlaserzentren. Hier gehts zu den Details fürs Augenlasern in Leipzig: https://www.augenlaser-ratgeber.net/augenlasern/leipzig/
+
+# Weiterführende Informationen
+- ReLEx SMILE – Entspannt in ein Leben ohne Brille (https://www.berliner-woche.de/mitte/c-sonstiges/entspannt-in-ein-leben-ohne-brille_a312357)
+- 
