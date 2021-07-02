@@ -1,20 +1,25 @@
 Augenlaser-Ratgeber.net
 Ratgeber- & Vergleichsportal zum Thema Augen lasern und Linsenimplantate
 
-# Ratgeber
-- https://www.augenlaser-ratgeber.net/augenlasern/kosten/
-- https://www.augenlaser-ratgeber.net/augenlasern/risiken/
+Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 
-# Verfahren
-- https://www.augenlaser-ratgeber.net/augenlasern/relex-smile/
-- https://www.augenlaser-ratgeber.net/augenlasern/lasik/
-- https://www.augenlaser-ratgeber.net/augenlasern/femto-lasik/
+# Augenlaser-Ratgeber
+- Augenlasern die Kosten – https://www.augenlaser-ratgeber.net/augenlasern/kosten/
+- Augenlasern die Risiken – https://www.augenlaser-ratgeber.net/augenlasern/risiken/
+
+# Augenlaser-Verfahren
+- ReLEx SMILE als eines der modernsten Augenlaser-Verfahren – https://www.augenlaser-ratgeber.net/augenlasern/relex-smile/
+- LASIK als eines der solidesten und bewährtesten Augenlaser-Verfahren – https://www.augenlaser-ratgeber.net/augenlasern/lasik/
+- Femto-LASIK als die Weiterehtwicklung von LASIK die ohne mechanische Hilfsmittel auskommt – https://www.augenlaser-ratgeber.net/augenlasern/femto-lasik/
 
 # Städte
-- https://www.augenlaser-ratgeber.net/augenlasern/berlin/
-- https://www.augenlaser-ratgeber.net/augenlasern/duesseldorf/
-- https://www.augenlaser-ratgeber.net/augenlasern/frankfurt-am-main/
-- https://www.augenlaser-ratgeber.net/augenlasern/hamburg/
-- https://www.augenlaser-ratgeber.net/augenlasern/koeln/
-- https://www.augenlaser-ratgeber.net/augenlasern/stuttgart/
-- https://www.augenlaser-ratgeber.net/augenlasern/muenchen/
+- Berlin mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details Für Berlin: https://www.augenlaser-ratgeber.net/augenlasern/berlin/
+- Düsseldorf mit d.Z. 7 größeren Augenlaserzentren Hier gehts zu den Details für Düsseldorf: https://www.augenlaser-ratgeber.net/augenlasern/duesseldorf/
+- Frankfurt am Main mit d.Z. 6 größeren Augenlaserzentren. Die gehts zu den Details für Frankfurt am Main: https://www.augenlaser-ratgeber.net/augenlasern/frankfurt-am-main/
+- Hamburg mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details für Hamburg: https://www.augenlaser-ratgeber.net/augenlasern/hamburg/
+- Hannover mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details für Hannover: https://www.augenlaser-ratgeber.net/augenlasern/hannover/
+- Köln mit d.Z. 5 größeren Augenlaserzentren. Hier gehts zu den Details fürKöln: https://www.augenlaser-ratgeber.net/augenlasern/koeln/
+- Nürnberg mit d.Z. 2 größeren Augenlaserzentren. Hier gehts zu den Details für Nürnberg: https://www.augenlaser-ratgeber.net/augenlasern/nuernberg/
+- Stuttgart mit d.Z. 4 größeren Augenlaserzentren. Hier gehts zu den Details für Stuttgart: https://www.augenlaser-ratgeber.net/augenlasern/stuttgart/
+- München mit d.Z. 8 größeren Augenlaserzentren. Hier gehts zu den Details für München: https://www.augenlaser-ratgeber.net/augenlasern/muenchen/
+- Leipzig mit d.Z. 3 größeren Augenlaserzentren. Hier gehts zu den Details für Leipzig: https://www.augenlaser-ratgeber.net/augenlasern/leipzig/
