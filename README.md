@@ -24,4 +24,18 @@ Augenlaser-Ratgeber.net – Fach- & Vergleichsportal für Augenlasern
 
 # Weiterführende Informationen
 - ReLEx SMILE – Entspannt in ein Leben ohne Brille (https://www.berliner-woche.de/mitte/c-sonstiges/entspannt-in-ein-leben-ohne-brille_a312357)
-- 
+- Operation statt Brille – die Laser-OP (https://www.sehen.de/sehen/operation-statt-brille/)
+- Wieder scharf sehen? – Voller Durchblick beim Augenlasern! (https://www.meinbezirk.at/wien/c-regionauten-community/wieder-scharf-sehen-voller-durchblick-beim-augenlasern_a4663088)
+- Operation "Auge" – in 1 Minute wieder scharf sehen (https://www.myheimat.de/hamburg/ratgeber/operation-auge-in-1-minute-wieder-scharf-sehen-d3288022.html)
+- Brille ade – endlich wieder gut sehen mit Augenlasern (https://augenlaser-ratgeber-net.medium.com/augenlasern-9f96a4c07737)
+- Augenlasern – Augen auf bei der Wahl (https://meine.rheinische-anzeigenblaetter.de/koeln/c-ratgeber/augen-auf-bei-der-wahl_a10320)
+
+# Social Media
+- Linktree: https://linktr.ee/augenlaserratgeber
+- Twitter: https://twitter.com/augenlaserrat
+- Pinterst: https://www.pinterest.de/augenlaserratgeber/
+- Instagram: https://www.instagram.com/augenlaserratgeber/
+- Xing: https://www.xing.com/pages/augenlaser-ratgeber-net-fach-vergleichsportal-fuer-augenlasern
+- LinkedIn: https://www.linkedin.com/company/augenlaser-ratgerber-net/
+- Flipboard: https://flipboard.com/@AugenlaserRat
+- Tribe: https://augenlaser-ratgeber.tribe.so/
